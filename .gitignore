@@ -1,6 +1,8 @@
 *.npy
 *.wav
+*.mp3
 *.DS_Store
+input/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
